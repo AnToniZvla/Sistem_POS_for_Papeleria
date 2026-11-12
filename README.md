@@ -46,5 +46,5 @@ Asegúrate de tener instalado **Python 3.10 o superior** en tu equipo. Durante l
 Abre una terminal (**CMD** o **PowerShell**), ubícate en la carpeta donde deseas guardar el proyecto y ejecuta:
 
 ```cmd
-git clone [https://github.com/AnToniZvla/Database.git](https://github.com/AnToniZvla/Database.git)
+git clone [https://github.com/AnToniZvla/Sistem_POS_for_Papeleria](https://github.com/AnToniZvla/Sistem_POS_for_Papeleria)
 cd Database
