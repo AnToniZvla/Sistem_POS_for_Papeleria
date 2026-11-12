@@ -3,3 +3,15 @@
 venv/
 env/
 ENV/
+
+# Variables de entorno y secretos criptográficos
+.env
+*.env.local
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Reportes generados localmente
+*.pdf

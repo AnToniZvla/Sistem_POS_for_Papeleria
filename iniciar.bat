@@ -1,10 +1,8 @@
 @echo off
-title Sistema de Gestión - Papelería
-:: Se posiciona en la carpeta actual del proyecto
-cd /d %~dp0
-
+chcp 65001 > nul
 echo Iniciando Sistema de Gestión - Papelería...
-python menu.py
+.venv\Scripts\python.exe menu.py
+pause
 
 echo.
 echo El programa ha finalizado.
